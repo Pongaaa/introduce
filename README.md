@@ -2,9 +2,13 @@
 **CV - Data Analyst Fresher**
 
 Full Name: [Your Full Name
+
 Email: [Your Email]
+
 Phone Number: [Your Phone Number]
+
 LinkedIn: [Your LinkedIn Profile (if available)]
+
 GitHub/Kaggle: [Your GitHub/Kaggle Profile (if available)]
 
 **Career Objective**
