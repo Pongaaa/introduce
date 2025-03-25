@@ -63,15 +63,28 @@ Data Analyst Intern - [Company Name]
 Duration: [Month/Year] - [Month/Year]
 
 
+**Practical Experience (If any)**
+
 Assisted in cleaning and analyzing real-world data.
+
 Wrote SQL queries to extract data from databases.
+
 Created reports and visualizations as required.
-Certifications (If any)
+
+
+**Certifications (If any)**
+
 Google Data Analytics Certificate
+
 SQL for Data Science (Coursera)
+
 Power BI/Tableau (Udemy, DataCamp,...)
-Extracurricular Activities (If any)
+
+
+**Extracurricular Activities (If any)**
+
 Member of the university's Data Science Club.
+
 Participated in data analysis competitions (Kaggle, Hackathon,...).
 
 
